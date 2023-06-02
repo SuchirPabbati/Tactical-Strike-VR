@@ -21,7 +21,7 @@ To start playing Tactical Strike VR, follow these steps:
 2. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
 ```shell
-git clone https://github.com/your-username/tactical-strike-vr.git
+git clone https://github.com/SuchirPabbati/Tactical-Strike-VR.git
 ```
 
 3. **Open the Project**: Launch Unity and open the project by selecting the folder where you cloned the repository.
