@@ -36,10 +36,6 @@ Here are some additional resources you might find helpful:
 - OpenXR Documentation: [https://www.microsoft.org/openxr/](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/native/openxr)
 - Photon Pun 2 Documentation: [https://doc.photonengine.com/documentation](https://doc.photonengine.com/pun/current/getting-started/pun-intro)
 
-## License
-
-The VR Tactical Strike  game is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ---
 
 Feel free to explore the code, make improvements, and share your feedback. Enjoy the Tactical Strike VR experience!
