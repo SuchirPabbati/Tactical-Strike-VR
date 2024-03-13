@@ -31,5 +31,14 @@ git clone https://github.com/SuchirPabbati/Tactical-Strike-VR.git
 5. **Build and Run**: Build the project for your target VR platform and start playing Tactical Strike VR!
 
 ---
+## Demo
+
+<details>
+<summary>Click to expand</summary>
+
+
+https://github.com/SuchirPabbati/Tactical-Strike-VR/assets/106083812/75ba2bc6-5548-45e1-bdb2-45182ee8f37b
+
+
 
 Feel free to explore the code, make improvements, and share your feedback!
